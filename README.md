@@ -31,3 +31,7 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
+![Screenshot-quizsimulator](https://github.com/Bocabooii/Quiz-Simulator/assets/113655388/02b15b6b-54e5-4730-a601-46c1b812d6d8)
+
+
+![Screenshot-quizsimulator2](https://github.com/Bocabooii/Quiz-Simulator/assets/113655388/4b63e34b-a0a6-4dc1-95c9-c47e5236b859)
